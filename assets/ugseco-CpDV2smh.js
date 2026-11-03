@@ -1,0 +1,1 @@
+var e=`/assets/ugseco-nSXNH0uc.ico`;export{e as t};
