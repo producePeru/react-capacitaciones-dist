@@ -1,1 +1,0 @@
-var e=`/assets/cooperativa-mype-CjG7DwY7.png`;export{e as t};

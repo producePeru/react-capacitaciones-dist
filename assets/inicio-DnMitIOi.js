@@ -1,0 +1,1 @@
+import{y as e}from"./index-B4TeS2Xj.js";var t=e();function n(){return(0,t.jsx)(`div`,{})}export{n as default};
