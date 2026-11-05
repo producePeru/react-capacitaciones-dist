@@ -1,0 +1,1 @@
+import{y as e}from"./index-BaZduYVs.js";var t=e();function n(){return(0,t.jsx)(`div`,{})}export{n as default};
