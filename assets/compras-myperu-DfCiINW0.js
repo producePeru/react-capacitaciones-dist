@@ -1,1 +1,0 @@
-var e=`/assets/compras-myperu-C2vZew_H.ico`;export{e as t};
