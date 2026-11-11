@@ -1,0 +1,1 @@
+var e=`/assets/reactiva-BugGptWG.png`;export{e as t};
